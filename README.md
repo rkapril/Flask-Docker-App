@@ -42,4 +42,10 @@ Remove the container
 docker rm 2ab1a76cb586
 ```
 
+List all containers
+
+```
+docker ps -a
+```
+
 END
